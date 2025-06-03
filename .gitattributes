@@ -1,0 +1,2 @@
+gen/** linguist-generated=true
+api/rpc.capnp.go linguist-generated=true
